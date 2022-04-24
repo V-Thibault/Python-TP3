@@ -1,0 +1,12 @@
+1) un bot discord est exactement comme un utilisateur normal
+il à les mêmes permition et peut donc faire les même chose
+que n'importe quelle utilisateur.L'avantage d'un bot est qu'il
+est disponible 24/24 ce qui peut être utile pour être toujours 
+disponible.
+
+2) le logging consite à faire la journalisation de tous les messages envoyés. 
+il va mettre dans un fichier appart l'année le jours l'heure le nom d'utilisateur
+et le message qu'il a envoyé ce son les logs.
+Les logs sont très utiles pour modération pour savoir qui a fait quoi.
+ou bien pour garder une trace de tous les messages même si il on était
+suprimé par la suite.  

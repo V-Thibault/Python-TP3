@@ -1,0 +1,107 @@
+2022-04-18 21:40:16,463 Log-Master#7711 écrit: feur
+2022-04-18 21:40:16,463 lediamantnoir#2487 écrit: quoi
+2022-04-18 21:40:24,814 lediamantnoir#2487 écrit: del 3
+2022-04-18 21:40:30,344 lediamantnoir#2487 écrit: !del 3
+2022-04-18 21:41:11,012 lediamantnoir#2487 écrit: test
+2022-04-18 21:41:12,846 lediamantnoir#2487 écrit: test
+2022-04-18 21:41:24,087 We are being rate limited. Retrying in 3.26 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-18 21:41:27,597 lediamantnoir#2487 écrit: !del 5
+2022-04-18 21:42:09,012 lediamantnoir#2487 écrit: on vie dans une société
+2022-04-18 22:42:11,473 lediamantnoir#2487 écrit: !help
+2022-04-18 22:42:11,489 Log-Master#7711 écrit: Liste des commande :
+ !del x (suprime les x dernier message)
+2022-04-18 22:43:03,579 lediamantnoir#2487 écrit: !help
+2022-04-18 22:43:03,579 Log-Master#7711 écrit: Liste des commande :
+ 
+ -> !del x (suprime les x dernier message)
+2022-04-18 22:43:46,945 Log-Master#7711 écrit: Liste des commande :
+ 
+ -> !del x (suprime les x dernier message) 
+ !help (affiche la liste des commandes)
+2022-04-18 22:43:46,955 lediamantnoir#2487 écrit: !help
+2022-04-18 22:44:14,463 Log-Master#7711 écrit: Liste des commande :
+ 
+ -> !del x (suprime les x dernier message) 
+
+ -> !help (affiche la liste des commandes)
+2022-04-18 22:44:14,509 lediamantnoir#2487 écrit: !help
+2022-04-18 23:26:12,804 Log-Master#7711 écrit: feur
+2022-04-18 23:26:12,805 lediamantnoir#2487 écrit: tu fait quoi
+2022-04-18 23:26:19,438 lediamantnoir#2487 écrit: !del 3
+2022-04-18 23:49:43,686 Log-Master#7711 écrit: feur
+2022-04-18 23:49:43,686 lediamantnoir#2487 écrit: quoi
+2022-04-18 23:53:19,622 lediamantnoir#2487 écrit: quoi
+2022-04-18 23:53:36,169 lediamantnoir#2487 écrit: !help
+2022-04-18 23:53:36,169 Log-Master#7711 écrit: Liste des commandes :
+ 
+ -> !del x (suprime les x dernier message) 
+
+ -> !help (affiche la liste des commandes)
+2022-04-18 23:53:42,803 lediamantnoir#2487 écrit: !del 3
+2022-04-18 23:59:06,840 lediamantnoir#2487 écrit: quoi
+2022-04-19 00:00:11,346 Log-Master#7711 écrit: feur
+2022-04-19 00:00:11,346 lediamantnoir#2487 écrit: quoi
+2022-04-19 00:00:19,511 lediamantnoir#2487 écrit: !del 4
+2022-04-19 00:03:28,688 Log-Master#7711 écrit: feur
+2022-04-19 00:03:28,688 lediamantnoir#2487 écrit: quoi
+2022-04-19 00:03:37,781 We are being rate limited. Retrying in 3.25 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-19 00:03:41,226 lediamantnoir#2487 écrit: !del 5
+2022-04-19 00:04:12,188 Log-Master#7711 écrit: feur
+2022-04-19 00:04:12,188 lediamantnoir#2487 écrit: bob tu dit quoi
+2022-04-19 00:04:18,577 lediamantnoir#2487 écrit: !del 3
+2022-04-19 09:01:47,821 lediamantnoir#2487 écrit: quoi
+2022-04-19 09:01:52,342 lediamantnoir#2487 écrit: !help
+2022-04-19 09:01:55,771 lediamantnoir#2487 écrit: !del 2
+2022-04-19 09:02:09,628 lediamantnoir#2487 écrit: quoi
+2022-04-19 09:07:12,928 Log-Master#7711 écrit: feur
+2022-04-19 09:07:12,948 lediamantnoir#2487 écrit: quoi
+2022-04-19 09:07:17,960 lediamantnoir#2487 écrit: !del 4
+2022-04-19 09:30:39,643 lediamantnoir#2487 écrit: je suis un log
+2022-04-19 09:30:42,769 lediamantnoir#2487 écrit: log2
+2022-04-19 09:31:40,612 Log-Master#7711 écrit: feur
+2022-04-19 09:31:40,631 lediamantnoir#2487 écrit: quoi
+2022-04-19 09:31:44,787 We are being rate limited. Retrying in 4.04 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-19 09:31:49,013 lediamantnoir#2487 écrit: !del 5
+2022-04-19 09:35:15,804 lediamantnoir#2487 écrit: quoi
+2022-04-19 09:36:49,217 lediamantnoir#2487 écrit: tu fait quoi
+2022-04-19 09:38:54,542 lediamantnoir#2487 écrit: !del 4
+2022-04-19 09:51:57,234 lediamantnoir#2487 écrit: !del 4
+2022-04-19 10:01:56,384 lediamantnoir#2487 écrit: quoi
+2022-04-24 11:06:30,682 lediamantnoir#2487 écrit: quoi
+2022-04-24 11:09:21,529 lediamantnoir#2487 écrit: quoi
+2022-04-24 11:32:52,116 lediamantnoir#2487 écrit: quoi
+2022-04-24 11:33:34,372 Log-Master#7711 écrit: feur
+2022-04-24 11:33:34,372 lediamantnoir#2487 écrit: quoi
+2022-04-24 11:34:22,972 Log-Master#7711 écrit: feur
+2022-04-24 11:34:23,024 lediamantnoir#2487 écrit: quoi
+2022-04-24 11:34:28,796 We are being rate limited. Retrying in 3.75 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-24 11:34:33,234 lediamantnoir#2487 écrit: !del 7
+2022-04-24 11:34:34,446 We are being rate limited. Retrying in 3.32 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-24 11:34:44,891 lediamantnoir#2487 écrit: !del 8
+2022-04-24 11:34:45,314 We are being rate limited. Retrying in 2.91 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-24 11:34:56,439 We are being rate limited. Retrying in 3.23 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-24 11:35:01,232 lediamantnoir#2487 écrit: !del 8
+2022-04-24 11:35:15,138 We are being rate limited. Retrying in 3.15 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-24 11:35:19,171 lediamantnoir#2487 écrit: !del 7
+2022-04-24 11:35:27,117 We are being rate limited. Retrying in 3.25 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-24 11:35:32,808 We are being rate limited. Retrying in 2.94 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-24 11:35:36,012 lediamantnoir#2487 écrit: !del 10
+2022-04-24 11:39:48,872 lediamantnoir#2487 écrit: quoi
+2022-04-24 11:39:48,872 Log-Master#7711 écrit: feur
+2022-04-24 11:39:57,653 We are being rate limited. Retrying in 2.60 seconds. Handled under the bucket "419866632249147399:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-24 11:40:01,019 lediamantnoir#2487 écrit: !del 6
+2022-04-24 11:40:11,103 Log-Master#7711 écrit: Liste des commandes :
+ 
+ -> !del x (suprime les x dernier message) 
+
+ -> !help (affiche la liste des commandes)
+2022-04-24 11:40:11,119 lediamantnoir#2487 écrit: !help
+2022-04-24 11:41:54,553 lediamantnoir#2487 écrit: quoi
+2022-04-24 11:41:54,556 Log-Master#7711 écrit: feur
+2022-04-24 11:42:01,430 lediamantnoir#2487 écrit: !del 3
+2022-04-24 11:42:05,486 Log-Master#7711 écrit: Liste des commandes :
+ 
+ -> !del x (suprime les x dernier message) 
+
+ -> !help (affiche la liste des commandes)
+2022-04-24 11:42:05,486 lediamantnoir#2487 écrit: !help
